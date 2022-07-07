@@ -1,0 +1,7 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.container-fluid .card-body h3 {
+  font-weight: bold;
+}
